@@ -11,7 +11,7 @@
 /*Fondo de la pagina*/
 body {
 
-    background-image: url('/Imagenes/Fondo\ 1.jpg'); /* Imagen de fondo */
+    background-image: url('Imagenes/Fondo\ 1.jpg'); /* Imagen de fondo */
     background-size: cover; /* Ajusta la imagen al tamaño de la pantalla */
     background-repeat: no-repeat; /* No repetir la imagen */
     background-attachment: fixed; /* Fondo fijo */
